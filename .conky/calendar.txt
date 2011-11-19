@@ -1,0 +1,12 @@
+#format of in this text file
+#MMDD;N;TEXT
+#MMDD = month day
+#N    = 0 or 1 (1 to display same colors as week-ends)
+#TEXT = Text to display (use * for multiline)
+
+0113;0;TRUC
+0114;0;Mom's*Birthday!
+0115;0;today*is a*good*day
+0116;0;today*is a*perfect*day
+0127;1;
+
